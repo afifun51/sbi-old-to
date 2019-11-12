@@ -1,0 +1,15 @@
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+#page {
+	width:1280px;
+	margin:0px auto;
+	padding:10px;
+	background:#ececec;
+	font-size:1.0em;
+}

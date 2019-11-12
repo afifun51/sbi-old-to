@@ -1,0 +1,24 @@
+karakter aneh :
+–		&#45;
+—		&#8212;
+“		&#8220;
+”		&#8221;
+`   	&#96;
+' 		&#39;
+’       &#8217;
+‘       &#8216;
+…     . . . 
+
+
+fiqih	 	: DBDA
+hadist	: BEAA
+tafsir		: ADAB
+
+fisika		: ABDE
+kimia		: DDEC
+biologi	: DECE
+
+
+geografi		: DCDC
+ekonomi  	: BCDD
+sosiologi	: CBBC
