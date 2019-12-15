@@ -35,7 +35,7 @@ function has_taken_first_tryout($username) {
 
                     <div class="dropdown" style="margin-left: auto !important;">
                       <a id="dropdownBadgesPrimary" class="btn btn-sm btn-primary dropdown-toggle" href="#" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">
-                        <span class="align-middle">Mulai Tryout</span>
+                        <span class="align-middle">Tryout</span>
                         <i class="nova-angle-down icon-text icon-text-xs align-middle ml-3"></i>
                       </a>
 
@@ -43,16 +43,16 @@ function has_taken_first_tryout($username) {
 
                         <?php if (has_taken_first_tryout($username)) {
                             echo '<a class="dropdown-item media align-items-center py-2 px-3" href="#" style="color: #636363; background-color: #3199b9;">';
-                            echo '  Tryout Pertama';
+                            echo '  Mulai Tryout';
                             echo '</a>';
                         } else {
                             echo '<a class="dropdown-item media align-items-center py-2 px-3" href="choose-test-type-to-one.php">';
-                            echo '  Tryout Pertama';
+                            echo '  Mulai Tryout';
                             echo '</a>';
                         } ?>
-                    <a class="dropdown-item media align-items-center py-2 px-3" href="choose-test-type-to-two.php">
+                    <!-- <a class="dropdown-item media align-items-center py-2 px-3" href="choose-test-type-to-two.php">
                       Tryout Kedua
-                    </a>
+                    </a> -->
                   </div>
                 </div>
 
